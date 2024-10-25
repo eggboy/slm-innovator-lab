@@ -7,7 +7,7 @@ grand_parent: Lab 3. LLMOps for SLM with Azure AI Studio
 nav_order: 622
 ---
 
-# Lab 3.2.2 SLM and LLM comparison with Azure AI Studio Prompt Flow
+# Lab 3.2.2 SLM and LLM comparison with Azure AI Studio Prompt Flow (UI)
 
 ### Prerequisites
 
@@ -21,8 +21,8 @@ nav_order: 622
 - I want to do some testing, log tracing and monitoring to determine the right model. 
 
 ### TOC
-- 1️⃣ Create another model using LLM Node 
-- 2️⃣ Interact with the Chat: Test and trace the chat flow
+    1️⃣ Create another model using LLM Node 
+    2️⃣ Interact with the Chat: Test and trace the chat flow
 
 ### 1️⃣ Create another model using LLM Node to compare the results
 1. Create a new LLM Node to test the different model and prompt.
