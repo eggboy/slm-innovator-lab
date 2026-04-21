@@ -1,8 +1,8 @@
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 openai==1.43.0
 scikit-learn==1.5.1
 datasets~=2.21
-transformers~=4.44
+transformers~=5.5
 pandas~=2.2
 plotly
 matplotlib
